@@ -10,5 +10,5 @@ The app used different features like Row Widgets, Column Widgets, Stateless and 
 This app is basic Ninja ID app which shows different details of applicant.
 
 
-<img src="images/ninja.jpg" width="200" height="400">
+<img src="images/ninja.jpg" width="200" height="400" style="display: block; margin-left:auto; margin-right:auto; ">
 
